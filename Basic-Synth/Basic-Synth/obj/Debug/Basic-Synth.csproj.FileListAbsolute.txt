@@ -1,0 +1,9 @@
+D:\_The-Nights\Git\Night-acoustics\github\tutorial-c-sharp-audio-synth\Basic-Synth\Basic-Synth\obj\Debug\Basic-Synth.csprojAssemblyReference.cache
+D:\_The-Nights\Git\Night-acoustics\github\tutorial-c-sharp-audio-synth\Basic-Synth\Basic-Synth\obj\Debug\Basic_Synth.BasicSynth.resources
+D:\_The-Nights\Git\Night-acoustics\github\tutorial-c-sharp-audio-synth\Basic-Synth\Basic-Synth\obj\Debug\Basic_Synth.Properties.Resources.resources
+D:\_The-Nights\Git\Night-acoustics\github\tutorial-c-sharp-audio-synth\Basic-Synth\Basic-Synth\obj\Debug\Basic-Synth.csproj.GenerateResource.cache
+D:\_The-Nights\Git\Night-acoustics\github\tutorial-c-sharp-audio-synth\Basic-Synth\Basic-Synth\bin\Debug\Basic-Synth.exe.config
+D:\_The-Nights\Git\Night-acoustics\github\tutorial-c-sharp-audio-synth\Basic-Synth\Basic-Synth\bin\Debug\Basic-Synth.exe
+D:\_The-Nights\Git\Night-acoustics\github\tutorial-c-sharp-audio-synth\Basic-Synth\Basic-Synth\bin\Debug\Basic-Synth.pdb
+D:\_The-Nights\Git\Night-acoustics\github\tutorial-c-sharp-audio-synth\Basic-Synth\Basic-Synth\obj\Debug\Basic-Synth.exe
+D:\_The-Nights\Git\Night-acoustics\github\tutorial-c-sharp-audio-synth\Basic-Synth\Basic-Synth\obj\Debug\Basic-Synth.pdb
